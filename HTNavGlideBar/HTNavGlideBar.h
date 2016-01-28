@@ -31,7 +31,7 @@
 /**
  *  Initialize Methods
  *
- *  @param frame - HITNavGlideBar frame
+ *  @param frame - HTNavGlideBar frame
  *  @param show  - is show Arrow Button
  *
  *  @return Instance
